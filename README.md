@@ -4,5 +4,5 @@
    -> State
    -> Cases
    -> Deaths
-* Red mark describe the cases greater 500 in state
+* Red mark describe the cases greater then 500 in state
 * Blue mark describe the cases less then 500 in state
